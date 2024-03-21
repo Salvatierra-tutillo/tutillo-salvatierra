@@ -1,0 +1,22 @@
+@charset "utf-8";
+.Titulo {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 36px;
+	font-weight: bolder;
+	color: #036;
+	text-decoration: overline;
+	text-align: center;
+}
+.cuerpos {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 16px;
+	color: #03C;
+	text-decoration: blink;
+	text-align: left;
+}
+.menus {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 36px;
+	font-style: normal;
+	color: #000033;
+}
